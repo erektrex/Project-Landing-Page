@@ -1,2 +1,2 @@
 # Project-Landing-Page
-Beginning the last css exercise of the foundation part
+Beginning the last css exercise of the foundation
