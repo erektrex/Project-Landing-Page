@@ -1,2 +1,2 @@
 # Project-Landing-Page
-Final css project on Foundation part. Builded a single web pabe using flex-box.
+Final css project on foundation part. Builded a single web page using flex-box.
