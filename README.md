@@ -1,2 +1,3 @@
 # Project-Landing-Page
-Beginning the last css exercise of the foundation
+Final css project on Foundation part
+Builded a single web pabe using flex-box 
